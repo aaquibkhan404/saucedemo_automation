@@ -157,4 +157,5 @@ GitHub: https://github.com/aaquibkhan404
 
 **Project Repository:** [SauceDemo Automation Testing](https://github.com/aaquibkhan404/saucedemo_automation)
 
-*This project was developed for hands-on learning and practical experience in Software Testing and Test Automation using Playwright.*<img width="1920" height="1080" alt="Screenshot 2026-11-05 134542" src="https://github.com/user-attachments/assets/b6f2a8f7-4e7e-4514-8d74-bee368ef4fbd" />
+*This project was developed for hands-on learning and practical experience in Software Testing and Test Automation using Playwright.*<img width="1920" height="1028" alt="Screenshot 2026-11-05 134542" src="https://github.com/user-attachments/assets/866d2293-a874-41d7-b2a2-e902845917df" />
+
